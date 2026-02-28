@@ -1,40 +1,40 @@
 {
   "version": "1.0.20260228",
-  "generated_at": "2026-02-28T08:19:16.0675604-03:00",
+  "generated_at": "2026-02-28T09:09:30.8640051-03:00",
   "files": [
     {
       "path": "calculadora.db",
       "size": 5443584,
       "hash": "768CBAF182581CA0DE9B6216FE2CDC474FA622DC927D4B249C9049422CE0740A",
-      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repo/main/fiscal-dist/calculadora.db",
+      "url": "https://raw.githubusercontent.com/hwsistemas-team/fiscal-dist/main/calculadora.db",
       "updated": "2026-01-02T17:06:33.9893209-03:00"
     },
     {
       "path": "ibpt-mg.csv",
       "size": 2004027,
-      "hash": "A2307223B7F6D696BFEB01191F2E1D466B30A8FBF2F02227B6B63AE54F60E55A",
-      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repo/main/fiscal-dist/ibpt-mg.csv",
+      "hash": "A2307223B7F6D696BFEB01191F2E1D466B30A8FBF2F02227B6B63AE54F60E55B",
+      "url": "https://raw.githubusercontent.com/hwsistemas-team/fiscal-dist/main/ibpt-mg.csv",
       "updated": "2025-11-28T13:24:50.0000000-03:00"
     },
     {
       "path": "ncm-futura.json",
       "size": 9234,
-      "hash": "44A6269AA220AA75C00862C95FD6F80A308C096DC7DFD4E26E0D2A4255EA8700",
-      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repo/main/fiscal-dist/ncm-futura.json",
+      "hash": "44A6269AA220AA75C00862C95FD6F80A308C096DC7DFD4E26E0D2A4255EA870C",
+      "url": "https://raw.githubusercontent.com/hwsistemas-team/fiscal-dist/main/ncm-futura.json",
       "updated": "2025-12-29T09:00:39.8587785-03:00"
     },
     {
       "path": "ncm-historica.json",
       "size": 62215,
-      "hash": "E6891863138D54F6F6FBA2AF1E2540B08DB4E75FA5F16B9A8A4EB82B9B65462A",
-      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repo/main/fiscal-dist/ncm-historica.json",
+      "hash": "E6891863138D54F6F6FBA2AF1E2540B08DB4E75FA5F16B9A8A4EB82B9B65462D",
+      "url": "https://raw.githubusercontent.com/hwsistemas-team/fiscal-dist/main/ncm-historica.json",
       "updated": "2025-12-29T09:00:29.2825979-03:00"
     },
     {
       "path": "ncm-vigentes.json",
       "size": 3147061,
-      "hash": "CEFF73691CAE41207451A6B6CC36D8C7078F995AC6FDED36F9E0601F50CA14E7",
-      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repo/main/fiscal-dist/ncm-vigentes.json",
+      "hash": "CEFF73691CAE41207451A6B6CC36D8C7078F995AC6FDED36F9E0601F50CA14EE",
+      "url": "https://raw.githubusercontent.com/hwsistemas-team/fiscal-dist/main/ncm-vigentes.json",
       "updated": "2025-12-29T09:00:21.7678858-03:00"
     }
   ]
