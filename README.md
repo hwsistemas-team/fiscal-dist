@@ -30,7 +30,32 @@ Nenhum tratamento necessário nos dados dos arquivos
 * A fonte fornece o download dos 3 arquivos separados
 * A fonte tem a validação do captcha no endereço
 
-## Arquivo: `correl-fiscal-nfse.csv`
+## Arquivo: `nfs-ctribnac.csv`
+
+Arquivo que tem o Codigo de Tributação Nacional (cTribNac) utilizado no layout do Padrão Nacional
+
+###  O arquivo original é fornecido em `.xlsx` e foi convertido para `.csv`
+
+* Utilizando o Excel para abrir o arquivo original e usar a opção de Exportar ou Salvar como.
+* Escolha do formato: (CSV separado por vírgulas) (*csv)
+
+> Fonte: https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/documentacao-atual<br>
+> Na lista de arquivos, seção **Anexos de Domínio**: `anexo_b-nbs2-lista_servico_nacional-snnfse-v?.??-????????.xlsx`
+
+## Arquivo: `nfs-cindop.csv`
+
+Arquivo que tem o Código indicador da operação de fornecimento, conforme tabela “código indicador de operação”, corresponde ao campo cIndOp no grupo do IBSCBS da DPS no Padrao Nacional da NFSe
+
+###  O arquivo original é fornecido em `.xlsx` e foi convertido para `.csv`
+
+* Utilizando o Excel para abrir o arquivo original e usar a opção de Exportar ou Salvar como.
+* Escolha do formato: (CSV separado por vírgulas) (*csv)
+* As colunas foram compiladas e reduzidas a uma coluna de descrição
+
+> Fonte: https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/documentacao-atual<br>
+> Na lista de arquivos, seção **Anexos de Domínio**: `ANEXO_C-INDOP_IBSCBS-SNNFSe-v?.??-????????.xlsx`
+
+## Arquivo: `nfs-correlfiscal.csv`
 
 Arquivo que tem a correlação entre os códigos fiscais: Código do serviço da Lei Complementar `116` x `NBS` x `cIndOp` da NFSe no Padrao Nacional x `cClassTrib` do IBSCBS
 
@@ -39,5 +64,5 @@ Arquivo que tem a correlação entre os códigos fiscais: Código do serviço da
 * Utilizando o Excel para abrir o arquivo original e usar a opção de Exportar ou Salvar como.
 * Escolha do formato: (CSV separado por vírgulas) (*csv)
 
-> Fonte: https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/documentacao-atual<br>
-> Na lista de arquivos, seção **Anexos de Domínio**: `ANEXO_C-INDOP_IBSCBS-SNNFSe-v?.??-????????.xlsx`
+> Fonte: https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc<br>
+> Na lista de arquivos, seção **Anexos de Domínio**: `AnexoVIII-CorrelacaoItemNBSIndOpCClassTrib_IBSCBS_V?.??.??.xlsx`

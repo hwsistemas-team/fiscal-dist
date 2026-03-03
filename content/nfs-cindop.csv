@@ -1,0 +1,26 @@
+020101;Operação com bem imóvel – Localidade do imóvel
+020201;Serviço sobre bem imóvel – Localidade do imóvel
+020301;Administração/intermediação de bem imóvel – Localidade do imóvel
+030101;Serviço sobre pessoa (presencial) – Estabelecimento do fornecedor
+030102;Serviço sobre pessoa (presencial) – Endereço do adquirente
+030103;Serviço sobre pessoa (presencial) – Endereço do destinatário
+030104;Serviço sobre pessoa (presencial) – Endereço diverso
+040101;Planejamento de eventos – Local do Evento
+050101;Serviço sobre bem móvel – Estabelecimento do fornecedor
+050102;Serviço sobre bem móvel – Endereço do adquirente
+050103;Serviço sobre bem móvel – Endereço do destinatário
+050104;Serviço sobre bem móvel – Endereço diverso
+050201;Serviços portuários – Local da prestação
+060101;Transporte de passageiros – Local de início do transporte
+070101;Transporte de carga – Endereço fornecido para entrega
+070102;Transporte de carga – Local da retirada
+080101;Exploração de via – Local proporcional à extensão da via
+100101;Cessão de espaço publicitário (onerosa) – Domicílio do adquirente
+100102;Cessão de espaço publicitário (onerosa, adquirente no exterior) – Domicílio do destinatário
+100201;Cessão de espaço publicitário (não onerosa) – Domicílio do destinatário
+100301;Demais serviços (onerosos) – Domicílio do adquirente
+100302;Demais serviços (onerosos, adquirente no exterior) – Domicílio do destinatário
+100401;Demais serviços (não onerosos) – Domicílio do destinatário
+100501;Demais bens imateriais (onerosos) – Domicílio do adquirente
+100502;Demais bens imateriais (onerosos, adquirente no exterior) – Domicílio do destinatário
+100601;Demais bens imateriais (não onerosos) – Domicílio do destinatário
