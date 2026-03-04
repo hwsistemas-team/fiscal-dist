@@ -1,6 +1,6 @@
 {
   "version": "1.0.20260304",
-  "generated_at": "2026-03-04T07:21:58.8010793-03:00",
+  "generated_at": "2026-03-04T07:37:08.4474093-03:00",
   "files": [
     {
       "path": "calculadora.db",
@@ -40,9 +40,9 @@
     {
       "path": "nfs-cindop.csv",
       "size": 1749,
-      "hash": "C2567B78A4D977F33B2F9461F823EB3995799296DEDE6F17DD303B52818F2EE5",
+      "hash": "1A627045EAEAD4DEF0CE5E8FF19F9A2465D443413816DCA2D05925248008256F",
       "url": "https://raw.githubusercontent.com/hwsistemas-team/fiscal-dist/main/content/nfs-cindop.csv",
-      "updated": "2026-03-04T07:20:52.0038697-03:00"
+      "updated": "2026-03-04T07:37:03.7511351-03:00"
     },
     {
       "path": "nfs-correlfiscal.csv",
