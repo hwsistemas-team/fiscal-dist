@@ -1,6 +1,6 @@
 {
-  "version": "1.0.20260304",
-  "generated_at": "2026-03-04T07:37:08.4474093-03:00",
+  "version": "1.0.20260406",
+  "generated_at": "2026-04-06T17:59:13.7089955-03:00",
   "files": [
     {
       "path": "calculadora.db",
@@ -10,11 +10,18 @@
       "updated": "2026-01-02T17:06:33.9893209-03:00"
     },
     {
+      "path": "ibpt-es.csv",
+      "size": 2006919,
+      "hash": "F74361C4588ACE7FAE4B156A9355093EF581FE5BE744680B79AA9C489D2D80CA",
+      "url": "https://raw.githubusercontent.com/hwsistemas-team/fiscal-dist/main/content/ibpt-es.csv",
+      "updated": "2026-03-25T11:55:44.0000000-03:00"
+    },
+    {
       "path": "ibpt-mg.csv",
-      "size": 2004027,
-      "hash": "A2307223B7F6D696BFEB01191F2E1D466B30A8FBF2F02227B6B63AE54F60E55E",
+      "size": 2008043,
+      "hash": "28A4B449AA7325801138C73A3592703B4C809E9F29BC308CAD0B1E573C5FD7DF",
       "url": "https://raw.githubusercontent.com/hwsistemas-team/fiscal-dist/main/content/ibpt-mg.csv",
-      "updated": "2025-11-28T13:24:50.0000000-03:00"
+      "updated": "2026-03-25T11:55:48.0000000-03:00"
     },
     {
       "path": "ncm-futura.json",
